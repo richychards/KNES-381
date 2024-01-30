@@ -12,10 +12,11 @@ Grocery list
 
 
 ![picture alt](https://pbs.twimg.com/media/FVWH3LIWAAAn_dL.jpg "WANTED")
+
 __Benjamin to do list__ 
-- [] Help grandma cross the street 
+- [ ] Help grandma cross the street 
 - [X] Push children over
 - [X] Be scum 
-- [] Be good guy 
+- [ ] Be good guy 
 - [X] Ruining a small child's hotwheel collection
 
